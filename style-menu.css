@@ -16,7 +16,8 @@ nav ul li a {
   outline: none;
   color: #8d99ae;
   font-size: 17px;
-  font-family: 'Rubik Mono One', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 900;
   text-decoration: none;
   letter-spacing: 0.15em;
 }
